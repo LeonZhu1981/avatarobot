@@ -1,0 +1,10 @@
+{
+	/*****
+	*url: 配置对应的发帖论坛地址.
+	*fileName: 配置歌词文件的完整路径 + 文件名.
+	*interval: 这个论坛限制了发帖多少秒之后才能发第二个帖子(论坛目前设置的是30秒), 因此默认设置成40秒, 会更稳当.
+	******/
+	"url": "http://avata.sdo.com/forum.php?mod=viewthread&tid=1450369&extra=page%3D1", 
+	"fileName": "song.txt",
+	"interval": "40000"
+}
